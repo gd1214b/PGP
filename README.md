@@ -1,6 +1,8 @@
 # PGP
 gd1214b's PGP public key
 
+Fingerprint: `9B2B 1862 A870 7BEE 227F 6DFF D7E1 7DD8 7FB5 ECE3`
+
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
